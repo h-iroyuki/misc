@@ -8,3 +8,4 @@ autocmd FileType php :set dictionary=~/vim/dict/php.dict
 autocmd FileType php :set tags+=~/vim/ctags/pear.tags
 autocmd FileType php :set tags+=~/vim/ctags/rest.tags
 syntax enable
+set visualbell t_vb=
